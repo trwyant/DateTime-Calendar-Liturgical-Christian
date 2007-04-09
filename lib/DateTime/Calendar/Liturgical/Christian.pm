@@ -227,7 +227,7 @@ my %feasts = (
   11221 => {name=>'Thomas', prec=>4},
   # Christmas is dealt with above
   11226 => {name=>'Stephen', martyr=>1, prec=>4},
-  11226 => {name=>'John the Apostle', prec=>4},
+  11227 => {name=>'John the Apostle', prec=>4},
   11228 => {name=>'Holy Innocents', martyr=>1, prec=>4},
 
 ); 
