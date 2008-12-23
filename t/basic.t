@@ -412,8 +412,8 @@ __DATA__
 2006-12-23       blue     Advent 
 2006-12-24       blue     Advent Advent 5
 2006-12-25      white  Christmas Christmas
-2006-12-26      white  Christmas John the Apostle
-2006-12-27      green  Christmas 
+2006-12-26        red  Christmas Stephen
+2006-12-27      white  Christmas John the Apostle
 2006-12-28        red  Christmas Holy Innocents
 2006-12-29      green  Christmas 
 2006-12-30      green  Christmas 
